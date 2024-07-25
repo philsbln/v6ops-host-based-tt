@@ -19,11 +19,12 @@ keyword:
   - DNS
   - DNS64
   - APIs
+
 venue:
   group: v6ops
   type: Working Group
   mail: v6ops@ietf.org
-  arch: [https://example.com/WG](https://mailarchive.ietf.org/arch/browse/v6ops/)
+  arch: https://mailarchive.ietf.org/arch/browse/v6ops/
   github: philsbln/v6ops-host-based-tt
   latest: https://example.com/LATEST
 
