@@ -19,35 +19,39 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: An overview of IPv6 transition enablers for IPv6 mostly host
+abbrev: draft-tiesel-v6ops-host-based-tt
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-tiesel-v6ops-host-based-tt-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: ops
+workgroup: v6ops
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+ - IPv6
+ - transition technologies
+ - CLAT
+ - 464XLAT
+ - DNS
+ - DNS64
+ - APIs
 venue:
-  group: WG
+  group: v6ops
   type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
+  mail: v6ops@ietf.org
+  arch: [https://example.com/WG](https://mailarchive.ietf.org/arch/browse/v6ops/)
+  github: philsbln/v6ops-host-based-tt
   latest: https://example.com/LATEST
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Philipp S. Tiesel
+    organization: SAP SE
+    email: philipp@tiesel.net
 
 normative:
 
