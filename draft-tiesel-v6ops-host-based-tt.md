@@ -9,16 +9,16 @@ number:
 date:
 consensus: true
 v: 3
-area: ops
-workgroup: v6ops
+area: Operations and Management Area
+workgroup: IPv6 Operations
 keyword:
- - IPv6
- - transition technologies
- - CLAT
- - 464XLAT
- - DNS
- - DNS64
- - APIs
+  - IPv6
+  - transition technologies
+  - CLAT
+  - 464XLAT
+  - DNS
+  - DNS64
+  - APIs
 venue:
   group: v6ops
   type: Working Group
