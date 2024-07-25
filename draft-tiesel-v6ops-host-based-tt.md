@@ -9,8 +9,8 @@ number:
 date:
 consensus: true
 v: 3
-area: Operations and Management Area
-workgroup: IPv6 Operations
+# area: Operations and Management Area
+# workgroup: IPv6 Operations
 keyword:
   - IPv6
   - transition technologies
@@ -21,12 +21,12 @@ keyword:
   - APIs
 
 venue:
-  group: v6ops
-  type: Working Group
-  mail: v6ops@ietf.org
-  arch: https://mailarchive.ietf.org/arch/browse/v6ops/
-  github: philsbln/v6ops-host-based-tt
-  latest: https://example.com/LATEST
+#  group: v6ops
+#  type: Working Group
+#  mail: v6ops@ietf.org
+#  arch: https://mailarchive.ietf.org/arch/browse/v6ops/
+  github: "philsbln/v6ops-host-based-tt"
+  latest: "https://philsbln.github.io/v6ops-host-based-tt/draft-tiesel-v6ops-host-based-tt.html"
 
 author:
  -
